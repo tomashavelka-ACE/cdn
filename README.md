@@ -1,1 +1,1 @@
-# cdn
+# CDN App repository
