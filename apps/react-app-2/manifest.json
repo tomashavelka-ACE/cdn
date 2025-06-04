@@ -1,0 +1,46 @@
+{
+  "_formatIncompletePhoneNumber-DI_-TpzS.js": {
+    "file": "assets/formatIncompletePhoneNumber-DI_-TpzS.js",
+    "name": "formatIncompletePhoneNumber"
+  },
+  "index.html": {
+    "file": "assets/index-CoTYxJOo.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "node_modules/libphonenumber-js/index.js",
+      "node_modules/libphonenumber-js/max/index.js"
+    ]
+  },
+  "node_modules/@shared/mpsv/dist/assets/img/ageRestriction.svg": {
+    "file": "assets/ageRestriction-BriXLbC6.svg",
+    "src": "node_modules/@shared/mpsv/dist/assets/img/ageRestriction.svg"
+  },
+  "node_modules/@shared/mpsv/dist/assets/img/maintenance.svg": {
+    "file": "assets/maintenance-DbNPHD8H.svg",
+    "src": "node_modules/@shared/mpsv/dist/assets/img/maintenance.svg"
+  },
+  "node_modules/libphonenumber-js/index.js": {
+    "file": "assets/index-DfbWlAHu.js",
+    "name": "index",
+    "src": "node_modules/libphonenumber-js/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_formatIncompletePhoneNumber-DI_-TpzS.js"
+    ]
+  },
+  "node_modules/libphonenumber-js/max/index.js": {
+    "file": "assets/index-CHqjKTF-.js",
+    "name": "index",
+    "src": "node_modules/libphonenumber-js/max/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_formatIncompletePhoneNumber-DI_-TpzS.js"
+    ]
+  },
+  "style.css": {
+    "file": "assets/style-CcM7Y7xD.css",
+    "src": "style.css"
+  }
+}
