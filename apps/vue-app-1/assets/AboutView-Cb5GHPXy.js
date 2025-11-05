@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as n,a as e,t as c}from"./index-BHHp5g7j.js";const r={};function s(o,l){return n(),a("main",null,[e("div",null,[e("p",null,c(o.$t("common.about")),1)])])}const u=t(r,[["render",s]]);export{u as default};
