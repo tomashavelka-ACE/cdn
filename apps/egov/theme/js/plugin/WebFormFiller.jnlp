@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="." href="">
+	<information>
+		<title>FormApps Plug-in</title>
+		<vendor>Software602 a.s.</vendor>
+	</information>
+	<security>
+		<all-permissions/>
+	</security>
+	<resources>
+		<!-- Application Resources -->
+		<property name="jnlp.versionEnabled" value="true"/>
+		<j2se version="1.7+" max-heap-size="512m" href="http://java.sun.com/products/autodl/j2se"/>
+		<jar href="WebFormFiller.jar" main="true" />
+		<!-- <extension name="external libs" href="external_libs.jnlp"/> -->
+	</resources>
+	<applet-desc 
+		 name="FormApps Plug-in"
+		 main-class="cz.software602.webformfiller.WebFormFiller"
+		 width="600"
+		 height="600">
+		   <param name="MAYSCRIPT" value="true"/> 
+	 </applet-desc>
+	 <update check="always"/>
+</jnlp>
