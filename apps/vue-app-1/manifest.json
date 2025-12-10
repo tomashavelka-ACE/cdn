@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index-DIEwushe.js",
+    "file": "assets/index-DZs5NubG.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -12,7 +12,7 @@
     ]
   },
   "src/views/AboutView.vue": {
-    "file": "assets/AboutView-BjD0kax_.js",
+    "file": "assets/AboutView-D22mhHoF.js",
     "name": "AboutView",
     "src": "src/views/AboutView.vue",
     "isDynamicEntry": true,
