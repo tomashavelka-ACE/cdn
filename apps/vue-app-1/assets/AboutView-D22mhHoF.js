@@ -1,1 +1,0 @@
-import{_ as t,c as a,a as e,t as n,o as c}from"./index-DZs5NubG.js";const r={};function s(o,l){return c(),a("main",null,[e("div",null,[e("p",null,n(o.$t("common.about")),1)])])}const u=t(r,[["render",s]]);export{u as default};
