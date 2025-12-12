@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index-kQEb18nM.js",
+    "file": "assets/index-C3Soqs4-.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -8,11 +8,11 @@
       "src/views/AboutView.vue"
     ],
     "css": [
-      "assets/index-Dtee-52D.css"
+      "assets/index-KP2pXiW_.css"
     ]
   },
   "src/views/AboutView.vue": {
-    "file": "assets/AboutView-BtIAeB42.js",
+    "file": "assets/AboutView-DdlZDW2L.js",
     "name": "AboutView",
     "src": "src/views/AboutView.vue",
     "isDynamicEntry": true,
